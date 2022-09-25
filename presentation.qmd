@@ -3,7 +3,7 @@ title: ""
 format: 
   revealjs:
     self-contained: true
-    footer: "DSDP Knowledge Exchange, 2022-09-26 | Greta Timaite"
+    footer: "DSDP Knowledge Exchange, 2022-09-26 | @GTimaite"
 ---
 
 ## 
