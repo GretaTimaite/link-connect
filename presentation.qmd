@@ -1,7 +1,8 @@
 ---
 title: ""
-format:
+format: 
   revealjs:
+    self-contained: true
     footer: "DSDP Knowledge Exchange, 2022-09-26 | Greta Timaite"
 ---
 
