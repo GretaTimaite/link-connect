@@ -1,0 +1,167 @@
+---
+title: ""
+format:
+  revealjs:
+    footer: "DSDP Knowledge Exchange, 2022-09-26 | Greta Timaite"
+---
+
+## 
+
+:::{.notes}
+First of all, congratulations for being here. I hope you enjoy your time here as much as I have. 
+
+So, when Kylie asked us to prepare a 5 minute talk for this Knowledge Exchange session, my initial idea was to talk through my second project. But then as I started thinking about it a little bit more, I realised that is is KKNOWLEDGE EXCHANGE and not PROJECT EXCHANGE, so hey I don't necessarily have to talk about one of my projects specifically. And this got me excited. 
+
+I realised I can experiment a little bit. It might be a total failure or it might not.
+
+So, first, can I ask if you already know your projects?
+
+But this is what happened to me. 
+:::
+
+:::{.incremental}
+- Title 🤔
+- Project proposal 😧
+- Me 😵
+:::
+
+:::{.notes}
+OK, so if you happen to be assigned to a project that you didn't really know anything about and the research area is an area that you'd never think of doing research in because it's so far away from your interests.
+
+I tried to visualise my reaction to my first project.
+
+So what have I done to unpack this, so it starts making sense?
+
+I started asking myself if there's something that I connect to.
+:::
+
+
+## 
+
+:::{.r-stack}
+![](email.png){.framgent}
+
+![](email_edit.png){.fragment}
+:::
+
+:::{.notes}
+As you can see, I managed to identify two aspects of a project I can relate: one is more experiential, such as being a cycling, and another one is more connected to intellectual interests. However, both are valid ways of making the unknown known.
+
+All of this is a very long preamble to my presentation, which I titled
+:::
+
+# On links and connections 
+<!-- my title ;) -->
+:::{.notes}
+The reason of me choosing to talk about this is quite simple: over the last year I learnt that thinking about the project as part of a larger system, or a node in a network, can help to contextualise your project and own in by creating a more personal connection.
+
+I've mentioned a word "connection" a few times now so I really want to define it. 
+:::
+
+## Connection
+
+![](connection.png)
+
+
+:::{.notes}
+So, when I say "connection" or "to connect", I don't really mean linking things but that there's a positive emotional element in doing so. 
+:::
+
+## Link
+
+![](link.png)
+
+:::{.notes}
+Whereas when I say "link" I refer to, well, linking or joining.
+:::
+
+## Example
+<!-- slide example 1/5 -->
+:::{.incremental}
+- I felt connection to the project through an opportunity to work with open access data.
+- I felt somewhat connected to the project through cycling.
+:::
+
+## Example 
+<!-- slide example 2/5 -->
+- I felt connection to the project through an opportunity to work with open access data.
+- I felt somewhat connected to the project through cycling.
+
+BUT when I started creating links by
+
+## Example
+<!-- slide example 3/5 -->
+- I felt connection to the project through an opportunity to work with open access data.
+- I felt somewhat connected to the project through cycling.
+
+BUT when I started creating links by
+
+:::{.incremental}
+- reading other academic papers
+- reading policy documents
+- reading tweets (a recent one!)
+- talking to people
+:::
+
+## Example 
+<!-- slide example 4/5 -->
+
+Resulted in:
+
+:::{.incremental}
+- understanding that active travel != cycling
+- noticing that walking is sidelined in research: WHY
+- noticing big emphasis on inclusivity of infrastructure in policy documents
+- I shifted **focus on accessible pedestrian infrastructure** 
+:::
+
+## Example 
+<!-- slide example 5/5 -->
+This was great because:
+
+:::{.incremental}
+- got a say in shaping the project direction (after justifying it!)
+- I'm an avid walker
+- I care about accessible pedestrian infrastructure because I want everyone to go on walks with me :)
+:::
+
+## Kristina and I in Yorkshire Dales 
+
+![](trip_photo1.jpeg)
+
+## Post-hike refreshments!
+![](trip_photo2.jpeg)
+
+## Types of links and connections
+<!-- slide 1/2 -->
+:::{.incremental}
+- cause (climate change, transport infrastructure accessibility)
+- community (open science, open software)
+- methods and tools (simulation, NLP)
+:::
+
+## Types of links and connections
+<!-- slide 2/2 -->
+- cause (climate change, transport infrastructure accessibility)
+- community (open science, open software)
+- methods and tools (simulation, NLP)
+
+Not every project easily lends itself to creating connections. You don't even need to connect to a project to do well.
+
+However, thinking about links can support you in your data science journey.
+
+## What might be the side effects?  
+
+:::{.incremental}
+- more in-depth understanding of the project
+- improved technical skill set
+- sense of fulfillment and belonging 
+- established partnerships
+  - I wrote a [blog post](https://www.cdrc.ac.uk/networking-and-partnership-building-an-interns-perspective/) about this too 😊
+- creating more impact
+:::
+
+
+
+
+
